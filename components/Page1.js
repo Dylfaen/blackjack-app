@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native'
 export default function Page1() {
 
     const tableau = [
-        "Table 1",
+        "Table ",
         "Table 2",
         "Table 3",
         "Table 4",
