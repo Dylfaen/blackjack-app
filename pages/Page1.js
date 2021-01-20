@@ -11,7 +11,6 @@ function Page1() {
     ];
 
     const textes = tableau.map(function (element) {
-        console.log("iteration table", element)
 
         return <Text>{element}</Text>
 
