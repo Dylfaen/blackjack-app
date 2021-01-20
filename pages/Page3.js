@@ -4,7 +4,7 @@ import {StyleSheet, Text, View} from 'react-native'
 function Page3() {
     return <View>
         <Text>
-            Page 3
+            Page 34
         </Text>
     </View>
 }

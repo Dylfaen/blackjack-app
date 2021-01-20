@@ -11,19 +11,6 @@ import Page3 from './pages/Page3';
 export default function App() {
 
 
-  const cartes = [
-    {
-      id: "13P"
-    },
-    {
-      id: "2C"
-    },
-    {
-      id: "7Q"
-    }
-  ]
-
-
 
   const pages = [
     Page1,
