@@ -1,10 +1,16 @@
 import React from 'react';
 import {StyleSheet, Text, View} from 'react-native'
 
-export default function Page2() {
+function Page3() {
     return <View>
         <Text>
-            Page 2
+            Page 3
         </Text>
     </View>
+}
+
+export default {
+    id: "page3",
+    title: "Page 3",
+    component: Page3
 }
